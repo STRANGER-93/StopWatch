@@ -74,7 +74,7 @@ document.getElementById('instruction').addEventListener('click', function() {
         "Instructions:\n\n" +
         "- Click 'Start' or press 'Enter' to start the stopwatch.\n" +
         "- Click 'Stop' or press 'Spacebar' to stop the stopwatch.\n" +
-        "- Click 'Reset' or press 'Esc' to reset the stopwatch to 00:00:00.\n"+
-        "OR use the MOUSE CURSOR to click the buttons directly."
+        "- Click 'Reset' or press 'Esc' to reset the stopwatch to 00:00:00.\n"
     );
 });
+
